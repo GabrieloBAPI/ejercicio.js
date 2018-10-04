@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+    <h1>Sintax Javascript</h1>
+    <ul>
+      <li>Variables</li>
+      <script>
+
+      var num;
+      num=prompt("Escriba cualquier numero","");
+
+      alert("El cuadruple de tu numero es = " + (num*num*num*num));
+
+
+      </script>
+  </body>
+</html>

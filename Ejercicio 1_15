@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+    <h1>Sintax Javascript</h1>
+    <ul>
+      <li>Nombre y Salario</li>
+
+      <script>
+
+    var a
+     var b
+      a=prompt("Introducir nombre:","");
+      b=prompt("Salario:","");
+
+document.write("Tu nombre es: " + a + "<br />Y tu salario es: " + b);
+
+
+      </script>
+  </body>
+</html>

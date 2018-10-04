@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+    <h1>Sintax Javascript</h1>
+    <ul>
+      <li>nombres</li>
+      <script>
+
+      var nombre = prompt("Escriba su nombre:");
+
+      var apellidos=prompt("Y sus apellidos:");
+
+
+      alert("Bienvenido " + nombre + " " + apellidos);
+
+      </script>
+  </body>
+</html>

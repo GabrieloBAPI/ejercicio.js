@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+    <h1>Sintax Javascript</h1>
+    <ul>
+      <li>Variables</li>
+      <script>
+
+      var a = "Hola";
+      var b = "¿Que tal?";
+
+      alert(a+b);
+
+      </script>
+  </body>
+</html>

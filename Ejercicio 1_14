@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+    <h1>Sintax Javascript</h1>
+    <ul>
+      <li>MEDIA</li>
+      <script>
+
+      var a = prompt("Escriba cualquier numero:");
+      var b = prompt("Escriba otro numero:");
+      var c = prompt("Escriba el primer numero que piense:");
+      var d = parseInt(a)+parseInt(b)+parseInt(c)
+
+      alert("La media de los 3 nummeros es: " + ((d)/3) );
+
+      </script>
+  </body>
+</html>

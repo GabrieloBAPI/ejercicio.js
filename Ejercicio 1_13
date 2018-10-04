@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+    <h1>Sintax Javascript</h1>
+    <ul>
+      <li>EDAD EN MESES</li>
+      <script>
+
+      var num = prompt("Escriba su edad:");
+
+      alert("Su edad en meses es: " num*12);
+
+      </script>
+  </body>
+</html>

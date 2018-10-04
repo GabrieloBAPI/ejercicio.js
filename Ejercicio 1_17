@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+    <h1>Sintax Javascript</h1>
+    <ul>
+      <li>Nombre de susuario y Correro</li>
+
+      <script>
+
+    var a
+     var b
+      a=prompt("Introducir nombre de usuario:","");
+      b=prompt("Correo electronico:","");
+
+document.write("Su nombre de susuario es: " + a + "<br />Y su correo electronico es: " + b);
+
+
+      </script>
+  </body>
+</html>
