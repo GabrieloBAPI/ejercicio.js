@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+    <h1>Sintax Javascript</h1>
+    <ul>
+      <li>numeros</li>
+      <script>
+
+
+      var a=prompt("que operación quieres hacer (suma, resta, multiplicacion y division)","");
+      var b=parseInt(prompt("Escriba el numero que quieres operar",""));
+      var c=parseInt(prompt("Escriba el otro numero",""));
+
+      if (a=="suma")  {
+        alert( b+c )
+      }
+      else if (a=="resta")  {
+      alert( b-c )
+      }
+      else if (a=="multiplicacion" || a=="multiplicación")  {
+      alert( b*c )
+      }
+    else  if (a=="division" || a=="división" )  {
+      alert( b/c )
+      }
+      </script>
+  </body>
+</html>

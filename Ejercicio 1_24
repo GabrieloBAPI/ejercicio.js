@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+    <h1>Sintax Javascript</h1>
+    <ul>
+      <li>numeros</li>
+      <script>
+
+
+      var a=prompt("introducir un numero","");
+      var b=parseInt(prompt("Escriba otro numero",""));
+    var numero = [parseInt(a) % parseInt(b)];
+
+      if (numero == 0) {
+        alert("El primero es multiplo del 2");
+      } else {
+        alert(" NO son multiplos")
+      }
+
+
+      </script>
+  </body>
+</html>

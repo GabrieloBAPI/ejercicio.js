@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+    <script>
+var a=prompt("Diga un numero","");
+if(a<3){
+  alert("el numero es distinto a 3")
+}
+if(a>3){
+  alert("El numero no es 3");
+} else{alert("es 3")}
+
+    </script>
+  </body>
+</html>
